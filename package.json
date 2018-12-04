@@ -1,0 +1,52 @@
+{
+  "_from": "react-native-aes-kit@^1.0.2",
+  "_id": "react-native-aes-kit@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-DwcCS+yHZZ/xAy9NfL9rLDYg8SY=",
+  "_location": "/react-native-aes-kit",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-aes-kit@^1.0.2",
+    "name": "react-native-aes-kit",
+    "escapedName": "react-native-aes-kit",
+    "rawSpec": "^1.0.2",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.2"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-aes-kit/-/react-native-aes-kit-1.0.2.tgz",
+  "_shasum": "0f07024bec87659ff1032f4d7cbf6b2c3620f126",
+  "_spec": "react-native-aes-kit@^1.0.2",
+  "_where": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo",
+  "author": {
+    "name": "RocWang"
+  },
+  "bugs": {
+    "url": "https://github.com/rocwangv/react-native-aes-kit/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "AES-CBC-PKCS5Padding",
+  "homepage": "https://github.com/rocwangv/react-native-aes-kit#readme",
+  "keywords": [
+    "AES",
+    "CBC",
+    "PKCS5Padding"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-aes-kit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocwangv/react-native-aes-kit.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
